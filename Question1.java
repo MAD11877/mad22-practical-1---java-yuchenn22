@@ -1,4 +1,4 @@
-public class Question1
+class Question1
 {
   public static void main(String[] args)
   {
@@ -7,6 +7,6 @@ public class Question1
      * 
      * Hint: System.out.println(...)
      */
-    system.out.println("Hello World!")
+    System.out.println("Hello World!");
   }
 }
