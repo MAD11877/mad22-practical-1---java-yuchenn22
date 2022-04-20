@@ -29,10 +29,8 @@ public class Question5
     int maxCount = 0;
     int ans = 0;
     Scanner in = new Scanner(System.in);
-    System.out.print("Enter Integer: ");
     int num = in.nextInt();
     for (int i = 0; i<num; i++){
-      System.out.print("Enter number: ");
       int number = in.nextInt();
       numberList.add(number);
     }
